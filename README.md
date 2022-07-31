@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Dong Xing, Front-End developer from <b>China</b>, currently living in <b>Beijing</b>. </p>
+<p>Welcome to my page! </br> I'm Dong Xing, front-end developer from 🇨🇳, currently living in <b>Beijing</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -47,3 +47,5 @@
     </tr>
   </tbody>
 </table>
+
+This profile is a fork of [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt). Thanks.

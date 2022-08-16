@@ -24,12 +24,19 @@
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td><a href="https://github.com/WX-DongXing/svgtvi"><b>svgtvi</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/WX-DongXing/svgtvi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/WX-DongXing/svgtvi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/WX-DongXing/svgtvi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WX-DongXing/svgtvi?style=flat-square&labelColor=343b41"/>	</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/WX-DongXing/vue-animation-timeline"><b>Vue Animation Timeline</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/WX-DongXing/vue-animation-timeline?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/WX-DongXing/vue-animation-timeline?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/WX-DongXing/vue-animation-timeline?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WX-DongXing/vue-animation-timeline?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WX-DongXing/vue-animation-timeline?style=flat-square&labelColor=343b41"/>	</td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/WX-DongXing/terminator"><b>Terminator</b></a></td>
